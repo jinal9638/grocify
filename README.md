@@ -15,3 +15,13 @@
     and the **About Us** page without page reloads.
 -  **Dark Mode Toggle**: Smooth theme switching using Tailwind classes.
 -  **Responsive Design**: Full mobile menu support across all screen sizes.
+
+## GitHuB Link
+
+This is the github repository:
+[https://github.com/jinal9638/grocify]
+
+## Deployment
+
+This is the deployment link:
+[https://grocify-jade.vercel.app/]
