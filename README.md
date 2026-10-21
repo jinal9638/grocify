@@ -3,7 +3,7 @@
 [![Grocify Demo Video]
 (https://github.com/user-attachments/assets/8c64a40a-95dc-4809-b968-23e08dd3107f)]
 
-> *Click the image above to watch interactive UI walkthrough.*
+> *Click the link above to watch interactive UI walkthrough.*
 
 ###  Features Highlighted in Demo:
 -  **Dynamic Shopping Cart**: Real-time quantity adjustments and subtotal recalculation.
